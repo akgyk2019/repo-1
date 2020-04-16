@@ -1,0 +1,19 @@
+Cara Penggunaan Aplikasi Pos Free
+Copy Folder posfree ke htdocs 
+Install databasenya db_posfree_mata
+buat database db_posfree_mata
+
+eksekusi query pada file db_posfree_mata.sql (bisa diimport atau eksekusi query/tab SQL pada phpmyadmin)
+
+Edit koneksi ke database
+edit file library/inc.connection.php, sesuaikan nama host, username,password,database 
+
+Username & Password
+Type         	Username	Password      
+Super 		super  		super
+Admin		admin		admin
+Kasir		karisma	        liliana15
+
+
+
+
